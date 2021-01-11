@@ -30,7 +30,7 @@
     "servers":
     [
       {
-        "address": "router.eu.staging.thethings.network",
+        "address": "datenmoni.de",
         "port": 1700,
         "enabled": true
       },
